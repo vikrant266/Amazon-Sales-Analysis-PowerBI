@@ -1,64 +1,122 @@
-# 📊 Amazon Sales Analysis using Power BI
+# 🛒 Amazon Sales Analysis Dashboard (Power BI Project)
 
-## 📌 Project Overview
-This project analyzes Amazon sales transaction data to identify sales trends, product performance, fulfillment efficiency, customer behavior, and geographical demand patterns using Power BI.
+This project is an **end-to-end Power BI analytics solution** built to analyze Amazon sales data and generate actionable business insights related to **sales performance, product trends, fulfillment efficiency, customer behavior, and geographical demand**.
 
-## 🛠 Tools Used
-- Microsoft Excel (Data Cleaning)
-- Power BI (Data Modeling, DAX, Visualization)
-- GitHub (Project Hosting)
+The goal of this project is to transform raw e-commerce data into **decision-ready dashboards** suitable for business stakeholders.
 
-## 📂 Dataset
-- Cleaned Amazon sales dataset containing order details, product categories, fulfillment methods, customer types, and shipping locations.
+---
 
-## 📈 Dashboard Pages
-1. **Sales Overview** – Revenue, orders, AOV trends
-2. **Product Analysis** – Category & size performance
-3. **Fulfillment Analysis** – Amazon vs Merchant efficiency
-4. **Geographical Analysis** – State & city-wise revenue
-5. **Customer / Order Insights** – Order value buckets, B2B vs B2C
+## 📊 Project Features
 
-## 🔑 Key Insights
-- T-shirts and shirts contribute the highest revenue.
-- Medium and large sizes dominate sales volume.
-- Amazon fulfillment shows lower cancellation rates.
-- Sales are concentrated in metro and Tier-1 cities.
-- Majority of orders fall under medium value bucket.
+### 1. **Interactive Dashboards**
+- KPI cards for Revenue, Orders, AOV, Quantity
+- Month-wise sales and quantity trends
+- Category, fulfillment, and date slicers
+- Dynamic cross-filtering across visuals
 
-## 💡 Business Recommendations
-- Focus inventory on top-selling categories and sizes.
-- Expand operations in high-performing metro regions.
-- Improve merchant fulfillment to reduce cancellations.
-- Introduce bundling strategies to increase AOV.
+### 2. **Business Analysis Modules**
+- Sales Overview
+- Product Performance Analysis
+- Fulfillment & Order Status Analysis
+- Customer Insights
+- Geographical Revenue Analysis
 
-## 📎 Files Included
-- Cleaned dataset (Excel)
-- Power BI dashboard (.pbix)
-- Dashboard screenshots
-- Analysis report (PDF)
+### 3. **Clean Data Transformation**
+- Data cleaning and formatting in Excel
+- Handling missing and inconsistent values
+- Optimized data model for Power BI
+- DAX measures for KPIs and trends
 
-## 👤 Author
-Vikrant Mahajan
+---
 
+## 🛠️ Skills & Tools Used
 
-## 📊 Dashboard Preview
+| Skill / Tool | Usage |
+|--------------|------|
+| **Microsoft Excel** | Data cleaning & preprocessing |
+| **Power BI** | Data modeling, DAX, dashboards |
+| **DAX** | KPI calculations, AOV, trends |
+| **Data Analysis** | Business & sales insights |
+| **Data Visualization** | KPI cards, charts, maps |
+| **GitHub** | Project documentation & hosting |
 
-### Sales Overview
+---
+
+## 📁 Project Files
+
+- `dashboards/Dashboard.pbix` – Power BI dashboard file  
+- `data/Amazon Sale Report.csv` – Cleaned dataset  
+- `reports/Amazon_Sales_Analysis_Report.pdf` – Business insights report  
+- `images/` – Dashboard screenshots for preview  
+
+---
+
+## 📸 Dashboard Preview
+
+### 🟢 Sales Overview
 ![Sales Overview](images/Sale_overview.png)
 
-### Product Analysis
+---
+
+### 🟣 Product Analysis
 ![Product Analysis](images/Product_Analysis.png)
 
-### Fulfillment Analysis
-![Fulfillment Analysis](images/Fulfillment%20Analysis.png)
+---
 
-### Geographical Analysis
-![Geographical Analysis](images/Geographical%20Analysis.png)
+### 🔵 Fulfillment Analysis
+![Fulfillment Analysis](images/Fulfillment_Analysis.png)
 
-### Customer Insights
-![Customer Insights](images/Customer%20Insights.png)
+---
 
+### 🟠 Geographical Analysis
+![Geographical Analysis](images/Geographical_Analysis.png)
 
+---
 
+### 🟡 Customer Insights
+![Customer Insights](images/Customer_Insights.png)
 
+---
 
+## 🔍 Insights Generated
+
+- T-Shirts contribute the highest revenue among all categories
+- Medium and Large sizes account for the majority of sales volume
+- Amazon-fulfilled orders dominate over merchant-fulfilled orders
+- Metro and Tier-1 cities (Bengaluru, Mumbai, Delhi) generate maximum revenue
+- Order cancellations remain under control with a low cancellation rate
+
+---
+
+## 🚀 How to Use This Project
+
+1. Download the **Power BI (.pbix)** file from the repository  
+2. Open it in **Microsoft Power BI Desktop**  
+3. Use slicers to filter by category, date, fulfillment type  
+4. Explore insights across different dashboard pages  
+5. Modify or extend the dashboard using your own dataset  
+
+---
+
+## 📚 Future Improvements
+
+- Add Power BI Service deployment
+- Add real-time refresh using Power Query
+- Predictive sales forecasting using Python
+- SQL database integration for live data
+- Customer cohort and retention analysis
+
+---
+
+## 👨‍💻 Author
+
+**Vikrant Mahajan**  
+_Data Analyst (TCS) | Power BI • Excel • SQL • Python_
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/vikrant-mahajan-b63a9520a/
+
+---
+
+## ⭐ If you find this project helpful
+Please consider giving this repository a **star ⭐** on GitHub!
