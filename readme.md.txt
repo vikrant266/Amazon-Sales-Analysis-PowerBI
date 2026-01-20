@@ -1,0 +1,41 @@
+# 📊 Amazon Sales Analysis using Power BI
+
+## 📌 Project Overview
+This project analyzes Amazon sales transaction data to identify sales trends, product performance, fulfillment efficiency, customer behavior, and geographical demand patterns using Power BI.
+
+## 🛠 Tools Used
+- Microsoft Excel (Data Cleaning)
+- Power BI (Data Modeling, DAX, Visualization)
+- GitHub (Project Hosting)
+
+## 📂 Dataset
+- Cleaned Amazon sales dataset containing order details, product categories, fulfillment methods, customer types, and shipping locations.
+
+## 📈 Dashboard Pages
+1. **Sales Overview** – Revenue, orders, AOV trends
+2. **Product Analysis** – Category & size performance
+3. **Fulfillment Analysis** – Amazon vs Merchant efficiency
+4. **Geographical Analysis** – State & city-wise revenue
+5. **Customer / Order Insights** – Order value buckets, B2B vs B2C
+
+## 🔑 Key Insights
+- T-shirts and shirts contribute the highest revenue.
+- Medium and large sizes dominate sales volume.
+- Amazon fulfillment shows lower cancellation rates.
+- Sales are concentrated in metro and Tier-1 cities.
+- Majority of orders fall under medium value bucket.
+
+## 💡 Business Recommendations
+- Focus inventory on top-selling categories and sizes.
+- Expand operations in high-performing metro regions.
+- Improve merchant fulfillment to reduce cancellations.
+- Introduce bundling strategies to increase AOV.
+
+## 📎 Files Included
+- Cleaned dataset (Excel)
+- Power BI dashboard (.pbix)
+- Dashboard screenshots
+- Analysis report (PDF)
+
+## 👤 Author
+Vikrant Mahajan
