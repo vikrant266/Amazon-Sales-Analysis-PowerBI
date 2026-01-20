@@ -39,3 +39,22 @@ This project analyzes Amazon sales transaction data to identify sales trends, pr
 
 ## 👤 Author
 Vikrant Mahajan
+
+
+## 📊 Dashboard Preview
+
+### Sales Overview
+![Sales Overview](images/Sale_overview.png)
+
+### Product Analysis
+![Product Analysis](images/Product_Analysis.png)
+
+### Fulfillment Analysis
+![Fulfillment Analysis](images/Fulfillment_Analysis.png)
+
+### Geographical Analysis
+![Geographical Analysis](images/Geographical_Analysis.png)
+
+### Customer Insights
+![Customer Insights](images/Customer_Insights.png)
+
