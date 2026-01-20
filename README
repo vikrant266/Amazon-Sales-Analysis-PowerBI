@@ -71,7 +71,33 @@ ________________________________________
 ### 🟡 Customer Insights Dashboard
 ![Customer Insights](https://github.com/vikrant266/Amazon-Sales-Analysis-PowerBI/raw/main/images/Customer%20Insights.png)
 
-________________________________________
+____________________
+
+## 📊 Dashboard Preview
+
+<h3>🟢 Sales Overview Dashboard</h3>
+<img src="images/Sale_overview.png" width="1126" height="566" />
+
+<hr/>
+
+<h3>🟣 Product Analysis Dashboard</h3>
+<img src="images/Product_Analysis.png" width="1126" height="566" />
+
+<hr/>
+
+<h3>🔵 Fulfillment Analysis Dashboard</h3>
+<img src="images/Fulfillment Analysis.png" width="1126" height="566" />
+
+<hr/>
+
+<h3>🟠 Geographical Analysis Dashboard</h3>
+<img src="images/Geographical Analysis.png" width="1126" height="566" />
+
+<hr/>
+
+<h3>🟡 Customer Insights Dashboard</h3>
+<img src="images/Customer Insights.png" width="1126" height="566" />
+____________________
 📌 KPIs Used
 •	Total Revenue
 •	Total Orders
@@ -116,6 +142,7 @@ https://www.linkedin.com/in/vikrant-mahajan-b63a9520a/
 ________________________________________
 ⭐ If you find this project useful
 Please star ⭐ the GitHub repository!
+
 
 
 
