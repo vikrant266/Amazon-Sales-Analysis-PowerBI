@@ -1,123 +1,111 @@
-# 🛒 Amazon Sales Analysis Dashboard (Power BI Project)
-
-This project is an **end-to-end Power BI analytics solution** built to analyze Amazon sales data and generate actionable business insights related to **sales performance, product trends, fulfillment efficiency, customer behavior, and geographical demand**.
-
-The goal of this project is to transform raw e-commerce data into **decision-ready dashboards** suitable for business stakeholders.
-
----
-
-## 📊 Project Features
-
-### 1. **Interactive Dashboards**
-- KPI cards for Revenue, Orders, AOV, Quantity
-- Month-wise sales and quantity trends
-- Category, fulfillment, and date slicers
-- Dynamic cross-filtering across visuals
-
-### 2. **Business Analysis Modules**
-- Sales Overview
-- Product Performance Analysis
-- Fulfillment & Order Status Analysis
-- Customer Insights
-- Geographical Revenue Analysis
-
-### 3. **Clean Data Transformation**
-- Data cleaning and formatting in Excel
-- Handling missing and inconsistent values
-- Optimized data model for Power BI
-- DAX measures for KPIs and trends
-
----
-
-## 🛠️ Skills & Tools Used
-
-| Skill / Tool | Usage |
-|--------------|------|
-| **Microsoft Excel** | Data cleaning & preprocessing |
-| **Power BI** | Data modeling, DAX, dashboards |
-| **DAX** | KPI calculations, AOV, trends |
-| **Data Analysis** | Business & sales insights |
-| **Data Visualization** | KPI cards, charts, maps |
-| **GitHub** | Project documentation & hosting |
-
----
-
-## 📁 Project Files
-
-- `dashboards/Dashboard.pbix` – Power BI dashboard file  
-- `data/Amazon Sale Report.csv` – Cleaned dataset  
-- `reports/Amazon_Sales_Analysis_Report.pdf` – Business insights report  
-- `images/` – Dashboard screenshots for preview  
-
----
-
-## 📸 Dashboard Preview
-
-### 🟢 Sales Overview
-![Sales Overview](images/Sale_overview.png)
-
----
-
-### 🟣 Product Analysis
-![Product Analysis](images/Product_Analysis.png)
-
----
-
-### 🔵 Fulfillment Analysis
-![Fulfillment Analysis](images/Fulfillment_Analysis.png)
-
----
-
-### 🟠 Geographical Analysis
-![Geographical Analysis](images/Geographical_Analysis.png)
-
----
-
-### 🟡 Customer Insights
+📦 Amazon Sales Analysis Dashboard
+Power BI Project
+________________________________________
+📌 Project Overview
+This project presents an end-to-end Amazon Sales Analysis using Power BI, aimed at converting raw transactional sales data into actionable business insights.
+The dashboard helps stakeholders understand:
+•	Sales performance
+•	Product demand patterns
+•	Fulfillment efficiency
+•	Customer behavior
+•	Regional revenue contribution
+The analysis is designed for business decision-making, performance monitoring, and strategy planning.
+________________________________________
+📊 Project Features
+1. Interactive Power BI Dashboard
+•	High-level KPI cards for quick insights
+•	Sales, orders, and AOV trends
+•	Dynamic slicers for category, fulfillment, and date filtering
+•	Drill-down enabled visuals
+2. Multi-Page Analytical Views
+•	Sales Overview
+•	Product Analysis
+•	Fulfillment Analysis
+•	Geographical Analysis
+•	Customer Insights
+3. Clean Data Transformation
+•	Null value handling
+•	Duplicate removal
+•	Date standardization
+•	Data modeling and relationships
+•	DAX measures for KPIs
+________________________________________
+🛠️ Skills & Tools Used
+Skill / Tool	Usage
+Microsoft Excel	Data cleaning & preprocessing
+Power BI	Data modeling, DAX, visualization
+DAX	KPI calculations (Revenue, AOV, Cancellation Rate)
+Data Analysis	Trend, category, and region analysis
+GitHub	Project documentation & hosting
+________________________________________
+📁 Project Files Structure
+•	Dashboard.pbix – Main Power BI dashboard file
+•	Amazon Sale Report.csv – Cleaned dataset
+•	/images/ – Dashboard screenshots
+•	/reports/ – Project documentation (PDF / DOC)
+•	README.md – Project explanation
+________________________________________
+📈 Dashboard Preview (Insert Images Here)
+•	Sales Overview Dashboard
+ 
 
 
----
+•	Product Analysis Dashboard
+ 
 
-## 🔍 Insights Generated
+•	Fulfillment Analysis Dashboard
+ 
 
-- T-Shirts contribute the highest revenue among all categories
-- Medium and Large sizes account for the majority of sales volume
-- Amazon-fulfilled orders dominate over merchant-fulfilled orders
-- Metro and Tier-1 cities (Bengaluru, Mumbai, Delhi) generate maximum revenue
-- Order cancellations remain under control with a low cancellation rate
 
----
+•	Geographical Analysis Dashboard
+ 
 
-## 🚀 How to Use This Project
 
-1. Download the **Power BI (.pbix)** file from the repository  
-2. Open it in **Microsoft Power BI Desktop**  
-3. Use slicers to filter by category, date, fulfillment type  
-4. Explore insights across different dashboard pages  
-5. Modify or extend the dashboard using your own dataset  
-
----
-
-## 📚 Future Improvements
-
-- Add Power BI Service deployment
-- Add real-time refresh using Power Query
-- Predictive sales forecasting using Python
-- SQL database integration for live data
-- Customer cohort and retention analysis
-
----
-
-## 👨‍💻 Author
-
-**Vikrant Mahajan**  
-_Data Analyst (TCS) | Power BI • Excel • SQL • Python_
-
-🔗 LinkedIn:  
+•	Customer Insights Dashboard
+ 
+________________________________________
+📌 KPIs Used
+•	Total Revenue
+•	Total Orders
+•	Average Order Value (AOV)
+•	Total Quantity Sold
+•	Cancelled Orders
+•	Cancellation Rate (%)
+•	Shipped / Delivered Orders
+•	B2B vs B2C Revenue Contribution
+________________________________________
+🔍 Key Insights
+•	T-Shirts contribute the highest revenue among all product categories
+•	Medium and Large sizes account for the majority of sales volume
+•	Amazon-fulfilled orders outperform merchant fulfillment
+•	Metro & Tier-1 cities (Bengaluru, Mumbai, Delhi) dominate revenue share
+•	Cancellation rate remains relatively low, indicating strong fulfillment efficiency
+________________________________________
+✅ Business Recommendations
+•	Increase inventory focus on high-performing categories and sizes
+•	Strengthen logistics operations in top-revenue cities
+•	Introduce targeted offers to increase Average Order Value
+•	Monitor cancellation reasons to further optimize fulfillment
+________________________________________
+🚀 How to Use This Project
+1.	Download the Power BI (.pbix) file from GitHub
+2.	Open it in Power BI Desktop
+3.	Use slicers to filter data by category, date, fulfillment, and region
+4.	Explore individual dashboard pages for detailed insights
+5.	Modify or extend the analysis as per business needs
+________________________________________
+🔮 Future Enhancements
+•	Publish dashboard to Power BI Service
+•	Add scheduled refresh using Power Query
+•	Integrate SQL backend
+•	Add predictive analytics using Python
+________________________________________
+👨‍💻 Author
+Vikrant Mahajan
+Data Analyst | Power BI • Excel • SQL • Python
+🔗 LinkedIn:
 https://www.linkedin.com/in/vikrant-mahajan-b63a9520a/
-
----
-
-## ⭐ If you find this project helpful
-Please consider giving this repository a **star ⭐** on GitHub!
+________________________________________
+⭐ If you find this project useful
+Please star ⭐ the GitHub repository!
 
